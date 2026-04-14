@@ -2,3 +2,7 @@ fastapi
 uvicorn
 pytest
 httpx
+pydantic-settingsfastapi
+uvicorn
+pytest
+httpx
